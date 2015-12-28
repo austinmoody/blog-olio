@@ -4,7 +4,7 @@
 
 # Site
 title: Olio
-subtitle:
+subtitle: A dish of many ingredients.
 description:
 author: Austin Moody
 language: en
@@ -30,8 +30,8 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
+titlecase: true # Transform title into titlecase
+external_link: false # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -68,10 +68,4 @@ theme: apollo
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: rsync
-  host: 162.243.240.117
-  user: amoody
-  root: /var/www/olio
-  port: 25000
-  delete: true
-  verbose: true
+  type:
