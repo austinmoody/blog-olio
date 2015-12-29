@@ -13,4 +13,4 @@ Hello, I'm Austin and this is my blogging experiment for 2016.  Currently I resi
 
 ### Colophon
 
-olio.austinmoody.org is hosted by Digital Ocean and generated using [hexo](https://hexo.io/).
+olio.austinmoody.org is hosted by Digital Ocean and generated using [hexo](https://hexo.io/) with the [Apollo](https://github.com/pinggod/hexo-theme-apollo) theme.
