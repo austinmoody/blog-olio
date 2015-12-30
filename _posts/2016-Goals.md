@@ -17,3 +17,5 @@ Jotting down a few goals just before the start of 2016.  I haven't put a ton of 
 * Join a gym.
 * Make daily step goal 85% of the time.
 * Learn to play a song on the guitar.
+* Write a letter to the editor. 
+* Learn a new programming language (perhaps a functional one)
