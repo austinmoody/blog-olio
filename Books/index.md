@@ -4,7 +4,7 @@ date: 2016-01-06 21:41:50
 
 ## Currently Reading
 
-![the curious incident of the dog in the night-time](/i/curiousincident.jpg)
+![The Beaver Show](/i/beavershow.jpg)
 
 ## Previous Reads
 
