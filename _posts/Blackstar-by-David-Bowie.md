@@ -14,3 +14,7 @@ This new album is dark.  It is strange.  Jazz saxophonist [Donny McCaslin](https
 Even the video for the song Blackstar is great, check it out:
 
 <iframe width='575' height='324' src='http://cache.vevo.com/assets/html/embed.html?video=USRV31500003&autoplay=0' frameborder='0' allowfullscreen></iframe>
+
+---
+
+**Edit:** Literally hours after I posted this I heard that [David Bowie died](http://www.nytimes.com/2016/01/12/arts/music/david-bowie-dies-at-69.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0).  I cannot believe this album came out two days before his death.  Like he left us all a parting gift.
