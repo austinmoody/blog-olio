@@ -4,7 +4,7 @@ date: 2016-01-06 21:41:50
 
 ## Currently Reading
 
-![The Beaver Show](/i/beavershow.jpg)
+![Fuck Feelings]()
 
 ## Previous Reads
 

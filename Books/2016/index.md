@@ -18,3 +18,9 @@ date: 2016-01-06 21:41:50
 <div align="center">[The Curious Incident of the Dog in the Night-Time](https://en.wikipedia.org/wiki/The_Curious_Incident_of_the_Dog_in_the_Night-Time)</div>
 
 <div align="center"><small>Finished 09-Jan-2016</small></div>
+
+![The Beaver Show](/i/beavershow.jpg)
+
+<div align="center">[The Beaver Show](http://www.amazon.com/dp/B019O2L396?ref_=pe_2427780_160035660)</div>
+
+<div align="center"><small>Finished 13-Jan-2016</small></div>
