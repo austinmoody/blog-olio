@@ -24,3 +24,9 @@ date: 2016-01-06 21:41:50
 <div align="center">[The Beaver Show](http://www.amazon.com/dp/B019O2L396?ref_=pe_2427780_160035660)</div>
 
 <div align="center"><small>Finished 13-Jan-2016</small></div>
+
+![]()
+
+<div align="center">[Man's Search For Reason]()</div>
+
+<div align="center"><small>Finished 21-Jan-2016</small></div>
