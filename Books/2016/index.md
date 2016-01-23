@@ -3,7 +3,7 @@ date: 2016-01-06 21:41:50
 ---
 
 * Goal for the year: 40
-* Books read so far: 3
+* Books read so far: 4
 
 ---
 
@@ -25,8 +25,8 @@ date: 2016-01-06 21:41:50
 
 <div align="center"><small>Finished 13-Jan-2016</small></div>
 
-![]()
+![Man's Search For Meaning](/i/searchformeaning.jpg)
 
-<div align="center">[Man's Search For Reason]()</div>
+<div align="center">[Man's Search For Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)</div>
 
 <div align="center"><small>Finished 21-Jan-2016</small></div>
