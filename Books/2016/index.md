@@ -3,7 +3,7 @@ date: 2016-01-06 21:41:50
 ---
 
 * Goal for the year: 40
-* Books read so far: 4
+* Books read so far: 5
 
 ---
 
@@ -30,3 +30,9 @@ date: 2016-01-06 21:41:50
 <div align="center">[Man's Search For Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)</div>
 
 <div align="center"><small>Finished 21-Jan-2016</small></div>
+
+![The Alchemist](/i/alchemist.jpg)
+
+<div align="center">[The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel))</div>
+
+<div align="center"><small>Finished 23-Jan-2016</small></div>

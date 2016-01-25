@@ -8,8 +8,6 @@ date: 2016-01-06 21:41:50
 
 ![Pathway to Freedom](/i/pathwaytofreedom.jpg)
 
-![The Alchemist](/i/alchemist.jpg)
-
 ## Previous Reads
 
 * [2016](/Books/2016/)
