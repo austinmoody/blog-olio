@@ -33,6 +33,6 @@ date: 2016-01-06 21:41:50
 
 ![The Alchemist](/i/alchemist.jpg)
 
-<div align="center">[The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel))</div>
+<div align="center">[The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel)</div>
 
 <div align="center"><small>Finished 23-Jan-2016</small></div>

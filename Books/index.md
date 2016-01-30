@@ -8,6 +8,10 @@ date: 2016-01-06 21:41:50
 
 ![Pathway to Freedom](/i/pathwaytofreedom.jpg)
 
+![Paris Review 214](/i/parisreview214.png)
+
+![Dark Money](/i/darkmoney.jpg)
+
 ## Previous Reads
 
 * [2016](/Books/2016/)
