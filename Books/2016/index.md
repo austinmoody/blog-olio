@@ -2,8 +2,8 @@ title: 2016 Books
 date: 2016-01-06 21:41:50
 ---
 
-* Goal for the year: 40
-* Books read so far: 5
+* Goal for the year: 39
+* Books read so far: 6
 
 ---
 
@@ -36,3 +36,9 @@ date: 2016-01-06 21:41:50
 <div align="center">[The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(novel)</div>
 
 <div align="center"><small>Finished 23-Jan-2016</small></div>
+
+![Dark Money](/i/darkmoney.jpg)
+
+<div align="center">[Dark Money](http://www.amazon.com/Dark-Money-History-Billionaires-Radical/dp/0385535597)</div>
+
+<div align="center"><small>Finished 4-Feb-2016</small></div>
