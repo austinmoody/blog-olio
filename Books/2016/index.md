@@ -2,7 +2,7 @@ title: 2016 Books
 date: 2016-01-06 21:41:50
 ---
 
-* Goal for the year: 39
+* Goal for the year: 40
 * Books read so far: 6
 
 ---

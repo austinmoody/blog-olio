@@ -10,6 +10,8 @@ date: 2016-01-06 21:41:50
 
 ![Paris Review 214](/i/parisreview214.png)
 
+![Binary Star](/i/binarystar.jpg)
+
 ## Previous Reads
 
 * [2016](/Books/2016/)
