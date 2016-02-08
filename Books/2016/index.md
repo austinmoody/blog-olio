@@ -3,7 +3,7 @@ date: 2016-01-06 21:41:50
 ---
 
 * Goal for the year: 40
-* Books read so far: 6
+* Books read so far: 7
 
 ---
 
@@ -42,3 +42,9 @@ date: 2016-01-06 21:41:50
 <div align="center">[Dark Money](http://www.amazon.com/Dark-Money-History-Billionaires-Radical/dp/0385535597)</div>
 
 <div align="center"><small>Finished 4-Feb-2016</small></div>
+
+![Binary Star](/i/binarystar.jpg)
+
+<div align="center">[Binary Star](http://twodollarradio.com/products/binary-star)</div>
+
+<div align="center"><small>Finished 6-Feb-2016</small></div>
