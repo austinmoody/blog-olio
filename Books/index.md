@@ -10,7 +10,7 @@ date: 2016-01-06 21:41:50
 
 ![Paris Review 214](/i/parisreview214.png)
 
-![The Silence Of The Lambs](/i/silencelambs.jpg)
+![10:04](/i/1004.jpeg)
 
 ## Previous Reads
 

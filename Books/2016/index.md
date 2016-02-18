@@ -3,7 +3,7 @@ date: 2016-01-06 21:41:50
 ---
 
 * Goal for the year: 40
-* Books read so far: 7
+* Books read so far: 9
 
 ---
 
@@ -48,3 +48,16 @@ date: 2016-01-06 21:41:50
 <div align="center">[Binary Star](http://twodollarradio.com/products/binary-star)</div>
 
 <div align="center"><small>Finished 6-Feb-2016</small></div>
+
+![Silence of the Lambs](/i/silencelambs.jpg)
+
+<div align="center">[The Silence of the Lambs](
+https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(novel)</div>
+
+<div align="center"><small>Finished 9-Feb-2016</small></div>
+
+![A Happy Death](/i/ahappydeath.jpeg)
+
+<div align="center">[A Happy Death](https://en.wikipedia.org/wiki/A_Happy_Death)</div>
+
+<div align="center"><small>Finished 16-Feb-2016</small></div>
