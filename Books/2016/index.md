@@ -3,7 +3,7 @@ date: 2016-01-06 21:41:50
 ---
 
 * Goal for the year: 40
-* Books read so far: 9
+* Books read so far: 10 
 
 ---
 
@@ -61,3 +61,9 @@ https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(novel)</div>
 <div align="center">[A Happy Death](https://en.wikipedia.org/wiki/A_Happy_Death)</div>
 
 <div align="center"><small>Finished 16-Feb-2016</small></div>
+
+![10:04](/i/1004.jpeg)
+
+<div align="center">[10:04](http://www.npr.org/2014/09/03/345107284/10-04-a-strange-spectacular-novel-connecting-several-plotlines)</div>
+
+<div align="center"><small>Finished 22-Feb-2016</small></div>

@@ -10,7 +10,9 @@ date: 2016-01-06 21:41:50
 
 ![Paris Review 214](/i/parisreview214.png)
 
-![10:04](/i/1004.jpeg)
+![The Fall](/i/thefall.jpg)
+
+![The Happiness Trap](/i/happinesstrap.jpg)
 
 ## Previous Reads
 
